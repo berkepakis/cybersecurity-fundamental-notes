@@ -1,0 +1,9 @@
+admin
+manager
+guest
+john
+kamil
+root
+vagrant
+administrator
+sploit

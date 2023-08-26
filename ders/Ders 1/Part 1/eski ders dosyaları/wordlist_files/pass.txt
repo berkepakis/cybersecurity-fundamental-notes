@@ -1,0 +1,14 @@
+123456
+0123456
+password
+password1
+qwerty
+iloveyou
+admin
+abc123
+qwerty
+TwoCows2
+root
+vagrant
+administrator
+sploit

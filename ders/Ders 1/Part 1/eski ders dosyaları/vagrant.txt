@@ -1,0 +1,77 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\ManageEngine\DesktopCentral_Server\bin>cd c://
+cd c://
+
+c:\>systeminfo
+systeminfo
+
+Host Name:                 VAGRANT-2008R2
+OS Name:                   Microsoft Windows Server 2008 R2 Standard 
+OS Version:                6.1.7601 Service Pack 1 Build 7601
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          
+Registered Organization:   Vagrant Inc.
+Product ID:                00477-001-0000347-84780
+Original Install Date:     8/6/2017, 7:16:02 PM
+System Boot Time:          9/3/2022, 3:18:20 AM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware Virtual Platform
+System Type:               x64-based PC
+Processor(s):              4 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 1 Stepping 1 AuthenticAMD ~3300 Mhz
+                           [02]: AMD64 Family 23 Model 1 Stepping 1 AuthenticAMD ~3300 Mhz
+                           [03]: AMD64 Family 23 Model 1 Stepping 1 AuthenticAMD ~3300 Mhz
+                           [04]: AMD64 Family 23 Model 1 Stepping 1 AuthenticAMD ~3300 Mhz
+BIOS Version:              Phoenix Technologies LTD 6.00, 11/12/2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             tr;Turkish
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 306 MB
+Virtual Memory: Max Size:  4,095 MB
+Virtual Memory: Available: 627 MB
+Virtual Memory: In Use:    3,468 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              N/A
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB3134760
+                           [02]: KB2999226
+                           [03]: KB976902
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: VMware PCI Ethernet Adapter
+                                 Connection Name: Local Area Connection 3
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.10.10.11
+                                 [02]: fe80::4c36:1fc5:d9b6:f279
+
+
+
+
+__________________________________________________________
+___________________________VULNS__________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
